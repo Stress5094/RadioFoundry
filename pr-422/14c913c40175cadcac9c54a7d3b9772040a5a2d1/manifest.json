@@ -1,0 +1,46 @@
+{
+  "pr": 422,
+  "base_sha": "09046211a8428a3d74db70b83b4d99691cba9ce1",
+  "head_sha": "14c913c40175cadcac9c54a7d3b9772040a5a2d1",
+  "generated": "2026-11-08T01:36:49Z",
+  "counts": {
+    "changed": 2,
+    "added": 0,
+    "removed": 0,
+    "unchanged": 735
+  },
+  "images": [
+    {
+      "geometry": "160x128",
+      "color": "color",
+      "image": "compare/160x128-1.png",
+      "rows": 1,
+      "screens": [
+        "gps_sky"
+      ]
+    },
+    {
+      "geometry": "160x120i5",
+      "color": "color",
+      "image": "compare/160x120i5-1.png",
+      "rows": 1,
+      "screens": [
+        "gps_sky"
+      ]
+    }
+  ],
+  "screens": [
+    {
+      "geometry": "160x128",
+      "screen": "gps_sky",
+      "status": "changed",
+      "image": "compare/160x128-1.png"
+    },
+    {
+      "geometry": "160x120i5",
+      "screen": "gps_sky",
+      "status": "changed",
+      "image": "compare/160x120i5-1.png"
+    }
+  ]
+}
